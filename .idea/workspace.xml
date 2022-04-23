@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4630aaaa-fe9a-4ce2-b1f4-21242d05e158" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/driver/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/driver/MobileCapabilityTypeEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/driver/Platforms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/FormInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/Lab16_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/Lab16_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/Lab16_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/MobileCapabilityTypeEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/MobileCapabilityTypeEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/Platforms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/Platforms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/FormInteraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/FormInteraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/LaunchApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/LaunchApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +34,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="27j9DcyPlO10k2twkioBus0L8kw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +53,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FormInteraction">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lab16_3">
     <configuration name="FormInteraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.FormInteraction" />
       <module name="appium_k6" />
@@ -48,8 +66,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LaunchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.LaunchApp" />
+    <configuration name="Lab16_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Lab16_1" />
+      <module name="appium_k6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab16_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Lab16_2" />
+      <module name="appium_k6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab16_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Lab16_3" />
+      <module name="appium_k6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="common" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.common" />
       <module name="appium_k6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,8 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab16_3" />
+        <item itemvalue="Application.Lab16_1" />
+        <item itemvalue="Application.Lab16_2" />
+        <item itemvalue="Application.common" />
         <item itemvalue="Application.FormInteraction" />
-        <item itemvalue="Application.LaunchApp" />
       </list>
     </recent_temporary>
   </component>
@@ -83,5 +125,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

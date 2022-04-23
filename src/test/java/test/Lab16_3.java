@@ -19,7 +19,7 @@ public class Lab16_3 {
             WebDriverWait wait = new WebDriverWait(driver,10L);
             wait.until(ExpectedConditions.visibilityOfElementLocated(MobileBy.xpath("//android.widget.TextView[contains(@text,\"Form components\")]")));
 
-            // Swipe Up/Down
+            // Swipe Up and Down
             swipeUp(driver,50,50,50,10);
             swipeDown(driver,50,50,50,10);
 

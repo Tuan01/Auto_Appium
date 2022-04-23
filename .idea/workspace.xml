@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4630aaaa-fe9a-4ce2-b1f4-21242d05e158" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/Lab16_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/Lab16_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/Lab16_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/MobileCapabilityTypeEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/MobileCapabilityTypeEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/Platforms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/Platforms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/FormInteraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/FormInteraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/LaunchApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/LaunchApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/Lab16_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Lab16_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

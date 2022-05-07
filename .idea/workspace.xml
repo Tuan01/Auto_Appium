@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4630aaaa-fe9a-4ce2-b1f4-21242d05e158" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/context/Contexts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/context/WaitMoreThanOneContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/HybridContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/TakingScreenshot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/Lab16_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Lab16_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/SwipeHorizontally.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +54,9 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab16_3">
-    <configuration name="FormInteraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.FormInteraction" />
+  <component name="RunManager" selected="Application.TakingScreenshot">
+    <configuration name="HybridContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.HybridContext" />
       <module name="appium_k6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="common" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.common" />
+    <configuration name="TakingScreenshot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TakingScreenshot" />
       <module name="appium_k6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TakingScreenshot" />
+        <item itemvalue="Application.HybridContext" />
         <item itemvalue="Application.Lab16_3" />
         <item itemvalue="Application.Lab16_1" />
         <item itemvalue="Application.Lab16_2" />
-        <item itemvalue="Application.common" />
-        <item itemvalue="Application.FormInteraction" />
       </list>
     </recent_temporary>
   </component>

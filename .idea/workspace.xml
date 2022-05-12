@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4630aaaa-fe9a-4ce2-b1f4-21242d05e158" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/context/Contexts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/context/WaitMoreThanOneContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/HybridContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/TakingScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/driver/AppPackages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/lesson18/HandleMultipleApps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/lesson18/HandleVariantBehaviors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/SwipeHorizontally.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/context/Contexts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/context/Contexts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/context/WaitMoreThanOneContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/context/WaitMoreThanOneContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/MobileCapabilityTypeEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/MobileCapabilityTypeEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/driver/Platforms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/driver/Platforms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/FormInteraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/FormInteraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/HybridContext$MenuItemData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/HybridContext$MenuItemData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/HybridContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/HybridContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/Lab16_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/Lab16_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/Lab16_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/Lab16_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/Lab16_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/Lab16_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/LaunchApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/LaunchApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/TakingScreenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test/TakingScreenshot.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -51,10 +63,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test.lesson18" />
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TakingScreenshot">
+  <component name="RunManager" selected="Application.HandleMultipleApps">
+    <configuration name="HandleMultipleApps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.lesson18.HandleMultipleApps" />
+      <module name="appium_k6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HybridContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.HybridContext" />
       <module name="appium_k6" />
@@ -64,13 +84,6 @@
     </configuration>
     <configuration name="Lab16_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Lab16_1" />
-      <module name="appium_k6" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab16_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Lab16_2" />
       <module name="appium_k6" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HandleMultipleApps" />
         <item itemvalue="Application.TakingScreenshot" />
         <item itemvalue="Application.HybridContext" />
         <item itemvalue="Application.Lab16_3" />
         <item itemvalue="Application.Lab16_1" />
-        <item itemvalue="Application.Lab16_2" />
       </list>
     </recent_temporary>
   </component>
